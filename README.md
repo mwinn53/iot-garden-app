@@ -1,3 +1,18 @@
-# angular-ivy-jee5j6
+# IOT Garden app
+This application is the front end for a Raspberry Pi based garden irrigation system.
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-jee5j6)
+## Remote System 
+
+### Hardware: Construction
+
+### Software: Weather tracking
+
+###  Software: Water decision
+
+## This application
+
+## Current Conditions
+
+## Configuration
+
+## Climate and Watering History

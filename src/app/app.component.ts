@@ -7,7 +7,7 @@ import { FirebaseApp } from '@angular/fire/compat';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  name = 'Angular ' + VERSION.major;
+  name = 'IOT Garden App. Written in Angular ' + VERSION.major;
 
   constructor(public app: FirebaseApp) {
     
